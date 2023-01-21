@@ -1,3 +1,14 @@
 .list-group-item {
     padding: 0.75rem 0.85rem;
 }
+
+.tags-list{
+    span{
+        margin-right: 5px;
+        display: inline-block;
+        &.badge{
+            cursor: pointer;
+        }
+
+    }
+}

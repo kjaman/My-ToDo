@@ -2,6 +2,14 @@
   padding: 0.75rem 0.85rem;
 }
 
+.tags-list span {
+  margin-right: 5px;
+  display: inline-block;
+}
+.tags-list span.badge {
+  cursor: pointer;
+}
+
 /* Checkbox styles */
 /*  https://codepen.io/alvarotrigo/pen/vYdYRwb  */
 label.checkbox {
